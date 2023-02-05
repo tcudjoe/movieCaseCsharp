@@ -1,11 +1,10 @@
 ﻿using System;
 namespace MovieOrder.API.Entities
 {
-	public class Card
+	public class Cart
 	{
-		public Card()
-		{
-		}
+			public int Id { get; set; }
+			public int UserId { get; set;}
 	}
 }
 
