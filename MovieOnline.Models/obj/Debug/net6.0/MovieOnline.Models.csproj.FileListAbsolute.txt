@@ -1,0 +1,12 @@
+D:\school\MovieOnlineSolution\MovieOnline.Models\obj\Debug\net6.0\MovieOnline.Models.csproj.AssemblyReference.cache
+D:\school\MovieOnlineSolution\MovieOnline.Models\obj\Debug\net6.0\MovieOnline.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\school\MovieOnlineSolution\MovieOnline.Models\obj\Debug\net6.0\MovieOnline.Models.AssemblyInfoInputs.cache
+D:\school\MovieOnlineSolution\MovieOnline.Models\obj\Debug\net6.0\MovieOnline.Models.AssemblyInfo.cs
+D:\school\MovieOnlineSolution\MovieOnline.Models\obj\Debug\net6.0\MovieOnline.Models.csproj.CoreCompileInputs.cache
+D:\school\MovieOnlineSolution\MovieOnline.Models\bin\Debug\net6.0\MovieOnline.Models.deps.json
+D:\school\MovieOnlineSolution\MovieOnline.Models\bin\Debug\net6.0\MovieOnline.Models.dll
+D:\school\MovieOnlineSolution\MovieOnline.Models\bin\Debug\net6.0\MovieOnline.Models.pdb
+D:\school\MovieOnlineSolution\MovieOnline.Models\obj\Debug\net6.0\MovieOnline.Models.dll
+D:\school\MovieOnlineSolution\MovieOnline.Models\obj\Debug\net6.0\refint\MovieOnline.Models.dll
+D:\school\MovieOnlineSolution\MovieOnline.Models\obj\Debug\net6.0\MovieOnline.Models.pdb
+D:\school\MovieOnlineSolution\MovieOnline.Models\obj\Debug\net6.0\ref\MovieOnline.Models.dll

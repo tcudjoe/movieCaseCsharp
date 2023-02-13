@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "wJnBrBEj+m3kixxjPL4ypvMUNuIdEDUFddy1WS40S5U=",
+  "Source": "MovieOnline.API",
+  "BasePath": "_content/MovieOnline.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
