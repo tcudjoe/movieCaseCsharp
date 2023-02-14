@@ -98,7 +98,7 @@ namespace MovieOnline.API.Migrations
                             Id = 1,
                             CategoryId = 1,
                             Description = "After being bestowed with godly powers and imprisoned for it, Black Adam is liberated from his earthly binds to unleash his fury on the modern world.",
-                            ImgUrl = "/Images/Beauty/Beauty1.png",
+                            ImgUrl = "/Images/action/blackadam.jpg",
                             Name = "Black Adam",
                             Price = 10m,
                             Qty = 100
@@ -108,9 +108,9 @@ namespace MovieOnline.API.Migrations
                             Id = 2,
                             CategoryId = 1,
                             Description = "After being bestowed with godly powers and imprisoned for it, Black Adam is liberated from his earthly binds to unleash his fury on the modern world.",
-                            ImgUrl = "/Images/Beauty/Beauty1.png",
+                            ImgUrl = "/Images/action/blackapanther.jpg",
                             Name = "Black Panther: Wakanda forever",
-                            Price = 10m,
+                            Price = 0m,
                             Qty = 100
                         },
                         new
@@ -118,7 +118,7 @@ namespace MovieOnline.API.Migrations
                             Id = 3,
                             CategoryId = 1,
                             Description = "Thor embarks on a journey unlike anything he's ever faced -- a quest for inner peace. However, his retirement gets interrupted by Gorr the God Butcher, a galactic killer who seeks the extinction of the gods. .",
-                            ImgUrl = "/Images/Beauty/Beauty1.png",
+                            ImgUrl = "/Images/action/thor.jpg",
                             Name = "Thor: Love and Thunder",
                             Price = 12m,
                             Qty = 100
@@ -128,7 +128,7 @@ namespace MovieOnline.API.Migrations
                             Id = 4,
                             CategoryId = 1,
                             Description = "Jake Sully and Ney'tiri have formed a family and are doing everything to stay together. However, they must leave their home and explore the regions of Pandora. When an ancient threat resurfaces, Jake must fight a difficult war against the humans.",
-                            ImgUrl = "/Images/Beauty/Beauty1.png",
+                            ImgUrl = "/Images/action/avatar.jpg",
                             Name = "Avatar: The way of water",
                             Price = 10m,
                             Qty = 100
@@ -138,7 +138,7 @@ namespace MovieOnline.API.Migrations
                             Id = 5,
                             CategoryId = 2,
                             Description = "A man and his ex-wife race to Bali, Indonesia, to stop their daughter from marrying a seaweed farmer. As they desperately try to sabotage the wedding, the bickering duo soon find themselves rekindling old feelings that once made them happy together.",
-                            ImgUrl = "/Images/Beauty/Beauty1.png",
+                            ImgUrl = "/Images/comedy/tickettoparadise.jpg",
                             Name = "Ticket to Paradise",
                             Price = 10m,
                             Qty = 100
@@ -148,7 +148,7 @@ namespace MovieOnline.API.Migrations
                             Id = 6,
                             CategoryId = 2,
                             Description = "Ladybug is an unlucky assassin who's determined to do his job peacefully after one too many gigs has gone off the rails.",
-                            ImgUrl = "/Images/Beauty/Beauty1.png",
+                            ImgUrl = "/Images/comedy/bullettrain.jpg",
                             Name = "Bullet Train",
                             Price = 10m,
                             Qty = 100
@@ -158,7 +158,7 @@ namespace MovieOnline.API.Migrations
                             Id = 7,
                             CategoryId = 2,
                             Description = "College professor Jack Gladney and his family's comfortable suburban life is upended when a nearby chemical leak causes \"The Airborne Toxic Event,\" releasing a noxious black cloud over the region that forces the Gladney family to evacuate.",
-                            ImgUrl = "/Images/Beauty/Beauty1.png",
+                            ImgUrl = "/Images/comedy/whitenoise.jpg",
                             Name = "White Noise",
                             Price = 10m,
                             Qty = 100
@@ -168,7 +168,7 @@ namespace MovieOnline.API.Migrations
                             Id = 8,
                             CategoryId = 2,
                             Description = "Ousmane and François are two cops with very different styles. The unlikely pair are reunited once again for a new investigation.",
-                            ImgUrl = "/Images/Beauty/Beauty1.png",
+                            ImgUrl = "/Images/comedy/takedown.jpg",
                             Name = "The Takedown",
                             Price = 10m,
                             Qty = 100
@@ -188,7 +188,7 @@ namespace MovieOnline.API.Migrations
                             Id = 10,
                             CategoryId = 3,
                             Description = "When Superman and the rest of the league get kidnapped by Lex Luthor, it is up to Superdog Krypto to rescue them. He finds a group of shelter pets with superpowers and convinces them to help him.",
-                            ImgUrl = "/Images/Beauty/Beauty1.png",
+                            ImgUrl = "/Images/scifi/dcsuperpets.jpg",
                             Name = "DC League of Super-Pets",
                             Price = 10m,
                             Qty = 100
@@ -198,7 +198,7 @@ namespace MovieOnline.API.Migrations
                             Id = 11,
                             CategoryId = 3,
                             Description = "A man and his sister discover something sinister in the skies above their California horse ranch, while the owner of a nearby theme park tries to profit from the mysterious, otherworldly phenomenon..",
-                            ImgUrl = "/Images/Beauty/Beauty1.png",
+                            ImgUrl = "/Images/scifi/nope.jpg",
                             Name = "Nope",
                             Price = 10m,
                             Qty = 100
@@ -208,7 +208,7 @@ namespace MovieOnline.API.Migrations
                             Id = 12,
                             CategoryId = 3,
                             Description = "Two inmates form a connection while grappling with their pasts in a state-of-the-art penitentiary run by a brilliant visionary who experiments on his subjects with mind-altering drugs.",
-                            ImgUrl = "/Images/Beauty/Beauty1.png",
+                            ImgUrl = "/Images/scifi/spiderhead.jpg",
                             Name = "Spiderhead",
                             Price = 10m,
                             Qty = 100
@@ -218,7 +218,7 @@ namespace MovieOnline.API.Migrations
                             Id = 13,
                             CategoryId = 4,
                             Description = "After witnessing a bizarre, traumatic incident involving a patient, Dr. Rose Cotter starts experiencing frightening occurrences that she can't explain.",
-                            ImgUrl = "/Images/Beauty/Beauty1.png",
+                            ImgUrl = "/Images/horror/smile.jpg",
                             Name = "Smile",
                             Price = 10m,
                             Qty = 100
@@ -228,7 +228,7 @@ namespace MovieOnline.API.Migrations
                             Id = 14,
                             CategoryId = 4,
                             Description = "The film, penned by Will Tracy and Seth Reiss, focuses on a young couple who visits an exclusive destination restaurant on a remote island",
-                            ImgUrl = "/Images/Beauty/Beauty1.png",
+                            ImgUrl = "/Images/horror/menu.jpg",
                             Name = "The Menu",
                             Price = 10m,
                             Qty = 100
@@ -238,7 +238,7 @@ namespace MovieOnline.API.Migrations
                             Id = 15,
                             CategoryId = 4,
                             Description = "After the death of her mother and having no other known relatives, Evie takes a DNA test and discovers a long-lost cousin she never knew she had.",
-                            ImgUrl = "/Images/Beauty/Beauty1.png",
+                            ImgUrl = "/Images/horror/invitation.jpg",
                             Name = "The Invitation",
                             Price = 10m,
                             Qty = 100
@@ -248,7 +248,7 @@ namespace MovieOnline.API.Migrations
                             Id = 16,
                             CategoryId = 4,
                             Description = "A filmmaking crew and the cast make an adult movie at a reclusive place but elderly hosts find them and try to kill them.",
-                            ImgUrl = "/Images/Beauty/Beauty1.png",
+                            ImgUrl = "/Images/horror/x.jpeg",
                             Name = "X",
                             Price = 10m,
                             Qty = 100

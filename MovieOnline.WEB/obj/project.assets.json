@@ -498,6 +498,16 @@
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
         }
+      },
+      "MovieOnline.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/MovieOnline.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MovieOnline.Models.dll": {}
+        }
       }
     },
     "net6.0/browser-wasm": {
@@ -990,6 +1000,16 @@
         },
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
+        }
+      },
+      "MovieOnline.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/MovieOnline.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MovieOnline.Models.dll": {}
         }
       }
     }
@@ -1753,12 +1773,18 @@
         "system.text.json.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "MovieOnline.Models/1.0.0": {
+      "type": "project",
+      "path": "../MovieOnline.Models/MovieOnline.Models.csproj",
+      "msbuildProject": "../MovieOnline.Models/MovieOnline.Models.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
       "Microsoft.AspNetCore.Components.WebAssembly >= 6.0.11",
-      "Microsoft.AspNetCore.Components.WebAssembly.DevServer >= 6.0.11"
+      "Microsoft.AspNetCore.Components.WebAssembly.DevServer >= 6.0.11",
+      "MovieOnline.Models >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -1793,7 +1819,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\school\\MovieOnlineSolution\\MovieOnline.Models\\MovieOnline.Models.csproj": {
+              "projectPath": "D:\\school\\MovieOnlineSolution\\MovieOnline.Models\\MovieOnline.Models.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

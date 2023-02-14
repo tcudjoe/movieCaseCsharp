@@ -1,5 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Options;
+using Microsoft.Net.Http.Headers;
 using MovieOnline.API.Data;
 using MovieOnline.API.Repositories;
 using MovieOnline.API.Repositories.Contracts;
@@ -27,6 +28,11 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
+
+app.UseCors(policy => policy.WithOrigins("https://localhost:7087", "https://localhost:7087")
+.AllowAnyMethod()
+.WithHeaders(HeaderNames.ContentType)
+);
 
 app.UseHttpsRedirection();
 

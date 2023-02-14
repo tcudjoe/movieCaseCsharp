@@ -818,3 +818,12 @@ D:\school\MovieOnlineSolution\MovieOnline.WEB\obj\Debug\net6.0\MovieOnline.WEB.d
 D:\school\MovieOnlineSolution\MovieOnline.WEB\obj\Debug\net6.0\refint\MovieOnline.WEB.dll
 D:\school\MovieOnlineSolution\MovieOnline.WEB\obj\Debug\net6.0\MovieOnline.WEB.pdb
 D:\school\MovieOnlineSolution\MovieOnline.WEB\obj\Debug\net6.0\ref\MovieOnline.WEB.dll
+D:\school\MovieOnlineSolution\MovieOnline.WEB\bin\Debug\net6.0\wwwroot\_framework\MovieOnline.Models.dll
+D:\school\MovieOnlineSolution\MovieOnline.WEB\bin\Debug\net6.0\wwwroot\_framework\MovieOnline.Models.pdb
+D:\school\MovieOnlineSolution\MovieOnline.WEB\bin\Debug\net6.0\wwwroot\_framework\MovieOnline.Models.pdb.gz
+D:\school\MovieOnlineSolution\MovieOnline.WEB\bin\Debug\net6.0\wwwroot\_framework\MovieOnline.Models.dll.gz
+D:\school\MovieOnlineSolution\MovieOnline.WEB\bin\Debug\net6.0\MovieOnline.Models.dll
+D:\school\MovieOnlineSolution\MovieOnline.WEB\bin\Debug\net6.0\MovieOnline.Models.pdb
+D:\school\MovieOnlineSolution\MovieOnline.WEB\obj\Debug\net6.0\build-gz\OYKMYigr.gz
+D:\school\MovieOnlineSolution\MovieOnline.WEB\obj\Debug\net6.0\build-gz\mQsN3Wkl.gz
+D:\school\MovieOnlineSolution\MovieOnline.WEB\obj\Debug\net6.0\scopedcss\Pages\DisplayProducts.razor.rz.scp.css

@@ -196,13 +196,15 @@
       "mscorlib.dll": "sha256-KqZqU1imWCwJ9UPDElyoolN8s7Yqhjk67wuOohFN5KA=",
       "netstandard.dll": "sha256-kBK\/QJy7\/skP97jqnvXnOFMrhWS8HZ1bsADFK\/gZkyM=",
       "System.Private.CoreLib.dll": "sha256-3webPuyNUXfAFKY5c1tC\/jBVrjZHelBwvXrr1E9VJuk=",
-      "MovieOnline.WEB.dll": "sha256-lGyvO7YJczZJqsipk+OWxvgaoBpPnTh\/r2WMvxgxQkg="
+      "MovieOnline.Models.dll": "sha256-7ZRO0HtU2CoY7D5TF5oEuRdQUiEEh1wHNTxaFCSWzk4=",
+      "MovieOnline.WEB.dll": "sha256-6M23ITHUWH36c1ZfNmz6METhka3bqIfjZXb+gFLhKmE="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
-      "MovieOnline.WEB.pdb": "sha256-BWf3BUEhGe7ANMtKmvQarwdnpF3Od56QW76j3q4bOmM="
+      "MovieOnline.Models.pdb": "sha256-sg+Ox3YyVWt6Ns9RhBgEmbFanfBqupEBDcKZvKmpT2Q=",
+      "MovieOnline.WEB.pdb": "sha256-zYiTD8cZqZ0iEYIsktwZbJy0JdBV+1fVFevt\/HTl6HM="
     },
     "runtime": {
       "dotnet.6.0.13.jd438w1phf.js": "sha256-X\/515F1HEzgsDZdY8BJjt8YUwrWngHGZkMnpClhsrpY=",

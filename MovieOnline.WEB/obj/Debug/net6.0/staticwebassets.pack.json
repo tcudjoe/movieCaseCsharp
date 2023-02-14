@@ -13,6 +13,66 @@
       "PackagePath": "staticwebassets\\MovieOnline.WEB.styles.css"
     },
     {
+      "Id": "D:\\school\\MovieOnlineSolution\\MovieOnline.WEB\\wwwroot\\Images\\action\\avatar.jpg",
+      "PackagePath": "staticwebassets\\Images\\action\\avatar.jpg"
+    },
+    {
+      "Id": "D:\\school\\MovieOnlineSolution\\MovieOnline.WEB\\wwwroot\\Images\\action\\blackadam.jpg",
+      "PackagePath": "staticwebassets\\Images\\action\\blackadam.jpg"
+    },
+    {
+      "Id": "D:\\school\\MovieOnlineSolution\\MovieOnline.WEB\\wwwroot\\Images\\action\\blackpanther.jpg",
+      "PackagePath": "staticwebassets\\Images\\action\\blackpanther.jpg"
+    },
+    {
+      "Id": "D:\\school\\MovieOnlineSolution\\MovieOnline.WEB\\wwwroot\\Images\\action\\thor.jpg",
+      "PackagePath": "staticwebassets\\Images\\action\\thor.jpg"
+    },
+    {
+      "Id": "D:\\school\\MovieOnlineSolution\\MovieOnline.WEB\\wwwroot\\Images\\comedy\\bullettrain.jpeg",
+      "PackagePath": "staticwebassets\\Images\\comedy\\bullettrain.jpeg"
+    },
+    {
+      "Id": "D:\\school\\MovieOnlineSolution\\MovieOnline.WEB\\wwwroot\\Images\\comedy\\takedown.jpg",
+      "PackagePath": "staticwebassets\\Images\\comedy\\takedown.jpg"
+    },
+    {
+      "Id": "D:\\school\\MovieOnlineSolution\\MovieOnline.WEB\\wwwroot\\Images\\comedy\\tickettoparadise.jpg",
+      "PackagePath": "staticwebassets\\Images\\comedy\\tickettoparadise.jpg"
+    },
+    {
+      "Id": "D:\\school\\MovieOnlineSolution\\MovieOnline.WEB\\wwwroot\\Images\\comedy\\whitenoise.jpg",
+      "PackagePath": "staticwebassets\\Images\\comedy\\whitenoise.jpg"
+    },
+    {
+      "Id": "D:\\school\\MovieOnlineSolution\\MovieOnline.WEB\\wwwroot\\Images\\horror\\invitation.jpg",
+      "PackagePath": "staticwebassets\\Images\\horror\\invitation.jpg"
+    },
+    {
+      "Id": "D:\\school\\MovieOnlineSolution\\MovieOnline.WEB\\wwwroot\\Images\\horror\\menu.jpg",
+      "PackagePath": "staticwebassets\\Images\\horror\\menu.jpg"
+    },
+    {
+      "Id": "D:\\school\\MovieOnlineSolution\\MovieOnline.WEB\\wwwroot\\Images\\horror\\smile.jpg",
+      "PackagePath": "staticwebassets\\Images\\horror\\smile.jpg"
+    },
+    {
+      "Id": "D:\\school\\MovieOnlineSolution\\MovieOnline.WEB\\wwwroot\\Images\\horror\\x.jpeg",
+      "PackagePath": "staticwebassets\\Images\\horror\\x.jpeg"
+    },
+    {
+      "Id": "D:\\school\\MovieOnlineSolution\\MovieOnline.WEB\\wwwroot\\Images\\scifi\\dcsuperpets.jpg",
+      "PackagePath": "staticwebassets\\Images\\scifi\\dcsuperpets.jpg"
+    },
+    {
+      "Id": "D:\\school\\MovieOnlineSolution\\MovieOnline.WEB\\wwwroot\\Images\\scifi\\nope.jpg",
+      "PackagePath": "staticwebassets\\Images\\scifi\\nope.jpg"
+    },
+    {
+      "Id": "D:\\school\\MovieOnlineSolution\\MovieOnline.WEB\\wwwroot\\Images\\scifi\\spiderhead.jpg",
+      "PackagePath": "staticwebassets\\Images\\scifi\\spiderhead.jpg"
+    },
+    {
       "Id": "D:\\school\\MovieOnlineSolution\\MovieOnline.WEB\\wwwroot\\css\\app.css",
       "PackagePath": "staticwebassets\\css\\app.css"
     },
